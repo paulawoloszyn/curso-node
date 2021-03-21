@@ -1,0 +1,4 @@
+# Acá va todo lo que no es necesario subir. Se cargan así:
+
+salida/*.txt
+node_modules/
