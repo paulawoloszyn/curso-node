@@ -1,10 +1,11 @@
 ### Notas
 
-`Este es mi primer progama en Node.js.`
-El objetivo es crear una tabla de multiplicar por consola, pudiendo elegir multiplicador y multiplicando.
+`Este es mi primer progama en Node.js.
+El objetivo es crear una tabla de multiplicar por consola, pudiendo elegir multiplicador y multiplicando.`
 
 Output standard:
 
+```
 ==============
  TABLA DEL: 2
 ==============
@@ -20,6 +21,7 @@ Output standard:
 2 x 10 = 20
 
 Tabla creada!
+```
 
 ```
 Opciones:      --help     Muestra ayuda        [booleano]
